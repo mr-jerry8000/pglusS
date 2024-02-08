@@ -294,7 +294,7 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "and I can't wait to spend all the time in the world to share that love with you!",
+        "and I can't wait to spend all the time in the world to share that love with you pglu !",
         canvas.width / 2,
         canvas.height / 2 + 50
       );
@@ -306,7 +306,7 @@ function drawText() {
   if (frameNumber >= 3600 && frameNumber < 99999) {
     context.fillStyle = `rgba(255, 255, 255, ${thirdOpacity})`;
     context.fillText(
-      "Will You Be Mine?",
+      "Will You Be Mine 🥺?",
       canvas.width / 2,
       canvas.height / 2 + 120
     );
